@@ -7,6 +7,9 @@ Heavily inspired by the bot in Laravel's Discord server with the same name.
 ## How it works
 * The bot is invited with minimal permissions, the permissions to read and send messages should be fine.
 
-# How to deploy
+## How to use
+Invite the bot now using [this invite link](https://discord.com/oauth2/authorize?client_id=1032269333973442600&scope=bot&permissions=2048) (the link only has "Send messages" permissions) or build and deploy it yourself.
 
-# Licensing
+## How to deploy
+
+## Licensing
