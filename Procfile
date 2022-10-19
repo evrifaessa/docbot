@@ -1,1 +1,1 @@
-worker: ./docbot
+worker: go run main.go
