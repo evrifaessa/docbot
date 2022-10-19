@@ -1,4 +1,6 @@
 # docbot
+![Screenshot](https://user-images.githubusercontent.com/35808275/196697286-dc3a3b5b-024b-42ec-96e8-47f1490fba65.png)
+
 Simple Discord bot that replies with the related documentation page when you call it.
 It will likely mainly be used in the [FOSSBilling](https://fossbilling.org/discord) Discord server, but I'm planning to make it more extensible and customizable in the future.
 
